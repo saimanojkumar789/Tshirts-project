@@ -1,0 +1,25 @@
+.row {
+    padding-right: 10%;
+    padding-left: 10%;
+    align-items: center;
+}
+
+.card {
+    padding: 7%;
+    width: 400px;
+}
+
+.col-sm-5 {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+
+.card-title, .card-text {
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
+.float-right{
+    float: right;
+}

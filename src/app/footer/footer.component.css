@@ -1,0 +1,30 @@
+.footer-section {
+    background-color: black;
+    color: white;
+
+}
+
+.list-head {
+    font-weight: bolder;
+    font-size: 120%;
+}
+
+
+
+.formButton {
+    background-color: #ffffff;
+    display: inline-block;
+    color: black;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 6px 24px;
+    margin-right: 10px;
+    height: 30px;
+    text-decoration: none;
+}
+
+
+.formButton:active {
+    position: relative;
+    top: 3px;
+}
